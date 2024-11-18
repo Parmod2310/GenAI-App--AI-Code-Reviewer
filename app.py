@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure your Google API key
-genai.configure(api_key="AIzaSyCtEKTnKXJOnqvjyDs9TQjozhQ5CW9_aqU")  
+genai.configure(api_key="Enter Your Google API key")  
 
 
 # Advanced Sidebar (Bio Section)
