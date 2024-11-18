@@ -75,11 +75,13 @@ To run this application locally, you need:
 2. **Get Review and Suggestions**: Click the **Review Code** button, and the AI will analyze your code, identify potential issues, and provide suggestions for fixes.
 3. **View Past Submissions**: Use the "View Past History" button to see previously submitted code.
 
-## Example Screenshort
+## Example Screenshort & Video
 ![1.png](https://github.com/Parmod2310/GenAI-App--AI-Code-Reviewer/blob/main/Image/1.png?raw=true)
 ![2.png](https://github.com/Parmod2310/GenAI-App--AI-Code-Reviewer/blob/main/Image/2.png?raw=true)
 ![3.png](https://github.com/Parmod2310/GenAI-App--AI-Code-Reviewer/blob/main/Image/3.png?raw=true)
 ![4.png](https://github.com/Parmod2310/GenAI-App--AI-Code-Reviewer/blob/main/Image/4.png?raw=true)
+[![AI Code Reviewer Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Parmod2310/GenAI-App--AI-Code-Reviewer/blob/main/Image/AI%20Code%20Reviewer%20.mp4)
+
 ## Future Improvements
 - Allow users to upload Python files for review.
 - Enable a more detailed history feature, where users can filter by date or issues found.
